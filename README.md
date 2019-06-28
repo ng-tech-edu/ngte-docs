@@ -6,6 +6,10 @@ NGTE 配套跨领域文章书籍的 Gitbook 阅读版。您可以通过以下任
 
 - 在 Gitbook 中在线浏览，每个系列对应各自的 Gitbook 仓库。
 
+| [现代 Web 开发基础与工程实践](https://ngte-web.gitbook.io/i/) | [](https://ngte-pl.gitbook.io/i/) |
+| ------------------------------------------------------------- | --------------------------------- |
+
+
 - 前往 [xCompass https://wx-chevalier.github.io](https://wx-chevalier.github.io/home/#/search) 交互式地检索、查找需要的文章/链接/书籍/课程。
 
 ![](https://i.postimg.cc/3RVYtbsv/image.png)
@@ -26,7 +30,7 @@ NGTE 配套跨领域文章书籍的 Gitbook 阅读版。您可以通过以下任
 | ---------------------------------------------------- |
 
 
-- 编程语言
+- 编程语言理论与实践
 
 | [ProgrammingLanguage Theory Primer/编程语言理论指南](https://github.com/wx-chevalier/ProgrammingLanguage-Series/blob/master/编程语言理论) | [JavaScript 篇](https://github.com/wx-chevalier/ProgrammingLanguage-Series/blob/master/JavaScript) | [Java 篇](https://github.com/wx-chevalier/ProgrammingLanguage-Series/blob/master/Java) | [Python 篇](https://github.com/wx-chevalier/ProgrammingLanguage-Series/blob/master/Python) | [Go 篇](https://github.com/wx-chevalier/ProgrammingLanguage-Series/blob/master/Go) | [Rust 篇](https://github.com/wx-chevalier/ProgrammingLanguage-Series/blob/master/Rust) |
 | ----------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
