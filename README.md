@@ -4,15 +4,15 @@
 
 NGTE 配套跨领域文章书籍的 Gitbook 阅读版。您可以通过以下任一方式阅读笔者的系列文章，涵盖了技术资料归纳、编程语言与理论、Web 与大前端、服务端开发与基础架构、云计算与大数据、数据科学与人工智能、产品设计等多个领域：
 
-- 在 [Gitbook https://wx-chevalier.gitbook.io/ngte/](https://wx-chevalier.gitbook.io/ngte/) 中在线浏览。
+- 在 Gitbook 中在线浏览，每个系列对应各自的 Gitbook 仓库。
 
 - 前往 [xCompass https://wx-chevalier.github.io](https://wx-chevalier.github.io/home/#/search) 交互式地检索、查找需要的文章/链接/书籍/课程。
 
 ![](https://i.postimg.cc/3RVYtbsv/image.png)
 
-- 在下文的 [MATRIX 文章与代码矩阵 https://github.com/ng-tech-edu/ngte-docs](https://github.com/ng-tech-edu/ngte-docs) 中查看。
+- 在下文的 [MATRIX 文章与代码矩阵 https://github.com/ng-tech-edu/ngte-docs](https://github.com/ng-tech-edu/ngte-docs) 中查看文章与项目的源代码。
 
-# MATRIX | 文章与代码矩阵
+# MATRIX | 文章与代码源矩阵
 
 [![image.png](https://i.postimg.cc/y1QXgJ6f/image.png)](https://postimg.cc/bZFSQcfz)
 
