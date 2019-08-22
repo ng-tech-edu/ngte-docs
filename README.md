@@ -1,27 +1,64 @@
 ![](https://i.postimg.cc/NGX6X6GP/image.png)
 
-# NGTE 阅读版
+[中文版本](./README.md) | [English Version](./README-en.md)
 
-NGTE 配套跨领域文章书籍的 Gitbook 阅读版。您可以通过以下任一方式阅读笔者的系列文章，涵盖了技术资料归纳、编程语言与理论、Web 与大前端、服务端开发与基础架构、云计算与大数据、数据科学与人工智能、产品设计等多个领域：
+# 某熊的技术之路指北 ☯
 
-- 在 Gitbook 中在线浏览，每个系列对应各自的 Gitbook 仓库。
+在这个知识大爆发的时代，笔者所见许多人面临的问题不再是知识的匮乏，也不是缺乏学习的动力、毅力或激情，而是在浩汤洪流之中迷失了方向，也无足够的承载知识的容器，终致学的越多，忘的越多，竹篮打水一场空。[某熊的技术之路](https://github.com/wx-chevalier)系列文章/书籍/视频/代码即是笔者为自己构建的**知识围栏**，也是笔者蹒跚行进于这条路上的点滴印记，包含了笔者作为程序员的技术视野、知识管理与职业规划，致力于提升开发者的学习效率与实际研发效能。
 
-| [Awesome Lists](https://ngte-al.gitbook.io/i/) | [Awesome CheatSheets](https://ngte-ac.gitbook.io/i/) | [Awesome Interviews](https://github.com/wx-chevalier/Developer-Zero-To-Mastery/tree/master/Interview) | [Awesome RoadMaps](https://github.com/wx-chevalier/Developer-Zero-To-Mastery/tree/master/RoadMap) | [Awesome-CS-Books-Warehouse](https://github.com/wx-chevalier/Awesome-CS-Books-Warehouse) |
-| ---------------------------------------------- | ---------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
+目前笔者已有数十仓库千篇文章百万字，你可以在[某熊的技术之路指北 ☯](https://github.com/wx-chevalier/Developer-Zero-To-Mastery)查阅详细的导航。可以前往 [Awesome Lists](https://ngte-al.gitbook.io/i/) 或者 [Awesome-CS-Books](https://github.com/wx-chevalier/Awesome-CS-Books) 查阅分门别类的资料与书籍，抑或前往 [Awesome MindMaps](https://github.com/wx-chevalier/Awesome-MindMaps) 查阅完整的知识体系、脉络与要点的脑图，或者 [Awesome RoadMaps](https://github.com/wx-chevalier/Awesome-RoadMaps) 了解不同技术领域的进阶指南。最后，你还可以前往 [Awesome Interviews](https://github.com/wx-chevalier/Awesome-Interviews) 做最后面试前的准备，或者用常见的技术面试题去检验自己学习的结果。
 
+# Nav | 导航
 
-| [编程语言理论](https://ngte-pl.gitbook.io/i/) | [Java 实战](https://ngte-pl.gitbook.io/i/go/go) | [JavaScript 实战](https://ngte-pl.gitbook.io/i/javascript/javascript) | [Go 实战](https://ngte-pl.gitbook.io/i/go/go) | [Python 实战](https://ngte-pl.gitbook.io/i/python/python) | [Rust 实战](https://ngte-pl.gitbook.io/i/rust/rust) |
-| --------------------------------------------- | ----------------------------------------------- | --------------------------------------------------------------------- | --------------------------------------------- | --------------------------------------------------------- | --------------------------------------------------- |
+[某熊的技术之路指北 ☯ ](https://github.com/wx-chevalier/Developer-Zero-To-Mastery)就是对笔者不同领域方面沉淀下的知识仓库的导航与索引，便于读者快速地寻找到自己需要的内容。路漫漫其修远兮，吾正上下而求索，也希望能给所有遇见过笔者痕迹的同学些许帮助，在浩瀚银河间能顺利达到一个又一个彼岸。Just Coder，Travel in Galaxy，欢迎关注[某熊的技术之路](https://i.postimg.cc/mDxdH0VL/image.png)公众号，让我们一起前行。
 
+![](https://i.postimg.cc/59QVkFPq/image.png)
 
-| [软件工程、数据结构与算法、设计模式、软件架构](https://ngte-se.gitbook.io/i/) | [现代 Web 开发基础与工程实践](https://ngte-web.gitbook.io/i/) | [大前端混合开发与数据可视化](https://ngte-fe.gitbook.io/i/) | [服务端开发实践与工程架构](https://ngte-be.gitbook.io/i/) | [分布式基础架构](https://ngte-infras.gitbook.io/i/) | [数据科学，人工智能与深度学习](https://ngte-aidl.gitbook.io/i/) | [产品设计与用户体验](https://ngte-pd.gitbook.io/i/) |
-| ----------------------------------------------------------------------------- | ------------------------------------------------------------- | ----------------------------------------------------------- | --------------------------------------------------------- | --------------------------------------------------- | --------------------------------------------------------------- | --------------------------------------------------- |
+您可以通过以下导航来在 Gitbook 中阅读笔者的系列文章，涵盖了技术资料归纳、编程语言与理论、Web 与大前端、服务端开发与基础架构、云计算与大数据、数据科学与人工智能、产品设计等多个领域：
 
-- 前往 [xCompass https://wx-chevalier.github.io](https://wx-chevalier.github.io/home/#/search) 交互式地检索、查找需要的文章/链接/书籍/课程，或者关注微信公众号：某熊的技术之路。
+- 知识体系：《[Awesome Lists | CS 资料集锦](https://ngte-al.gitbook.io/i/)》、《[Awesome CheatSheets | 速学速查手册](https://ngte-ac.gitbook.io/i/)》、《[Awesome Interviews | 求职面试必备](https://github.com/wx-chevalier/Awesome-Interviews)》、《[Awesome RoadMaps | 程序员进阶指南](https://github.com/wx-chevalier/Awesome-RoadMaps)》、《[Awesome MindMaps | 知识脉络思维脑图](https://github.com/wx-chevalier/Awesome-MindMaps)》、《[Awesome-CS-Books | 开源书籍（.pdf）汇总](https://github.com/wx-chevalier/Awesome-CS-Books)》
 
-![](https://i.postimg.cc/3RVYtbsv/image.png)
+- 编程语言：《[编程语言理论](https://ngte-pl.gitbook.io/i/)》、《[Java 实战](https://ngte-pl.gitbook.io/i/java/java)》、《[JavaScript 实战](https://ngte-pl.gitbook.io/i/javascript/javascript)》、《[Go 实战](https://ngte-pl.gitbook.io/i/go/go)》、《[Python 实战](https://ngte-pl.gitbook.io/i/python/python)》、《[Rust 实战](https://ngte-pl.gitbook.io/i/rust/rust)》
 
-- 在下文的 [MATRIX 文章与代码矩阵 https://github.com/wx-chevalier/Developer-Zero-To-Mastery](https://github.com/wx-chevalier/Developer-Zero-To-Mastery) 中查看文章与项目的源代码。
+- 软件工程、模式与架构：《[编程范式与设计模式](https://ngte-se.gitbook.io/i/)》、《[数据结构与算法](https://ngte-se.gitbook.io/i/)》、《[软件架构设计](https://ngte-se.gitbook.io/i/)》、《[整洁与重构](https://ngte-se.gitbook.io/i/)》、《[研发方式与工具](https://ngte-se.gitbook.io/i/)》
+
+* Web 与大前端：《[现代 Web 开发基础与工程实践](https://ngte-web.gitbook.io/i/)》、《[数据可视化](https://ngte-fe.gitbook.io/i/)》、《[iOS](https://ngte-fe.gitbook.io/i/)》、《[Android](https://ngte-fe.gitbook.io/i/)》、《[混合开发与跨端应用](https://ngte-fe.gitbook.io/i/)》
+
+* 服务端开发实践与工程架构：《[服务端基础](https://ngte-be.gitbook.io/i/)》、《[微服务与云原生](https://ngte-be.gitbook.io/i/)》、《[测试与高可用保障](https://ngte-be.gitbook.io/i/)》、《[DevOps](https://ngte-be.gitbook.io/i/)》、《[Node](https://ngte-be.gitbook.io/i/)》、《[Spring](https://ngte-be.gitbook.io/i/)》、《[信息安全与渗透测试](https://ngte-be.gitbook.io/i/)》
+
+* 分布式基础架构：《[分布式系统](https://ngte-infras.gitbook.io/i/)》、《[分布式计算](https://ngte-infras.gitbook.io/i/)》、《[数据库](https://ngte-infras.gitbook.io/i/)》、《[网络](https://ngte-infras.gitbook.io/i/)》、《[虚拟化与编排](https://ngte-infras.gitbook.io/i/)》、《[云计算与大数据](https://ngte-infras.gitbook.io/i/)》、《[Linux 与操作系统](https://ngte-infras.gitbook.io/i/)》
+
+* 数据科学，人工智能与深度学习：《[数理统计](https://ngte-aidl.gitbook.io/i/)》、《[数据分析](https://ngte-aidl.gitbook.io/i/)》、《[机器学习](https://ngte-aidl.gitbook.io/i/)》、《[深度学习](https://ngte-aidl.gitbook.io/i/)》、《[自然语言处理](https://ngte-aidl.gitbook.io/i/)》、《[工具与工程化](https://ngte-aidl.gitbook.io/i/)》、《[行业应用](https://ngte-aidl.gitbook.io/i/)》
+
+* 产品设计与用户体验：《[产品设计](https://ngte-pd.gitbook.io/i/)》、《[交互体验](https://ngte-pd.gitbook.io/i/)》、《[项目管理](https://ngte-pd.gitbook.io/i/)》
+
+* 行业应用：《[行业迷思](https://github.com/wx-chevalier/Business-Series)》、《[功能域](https://github.com/wx-chevalier/Business-Series)》、《[电子商务](https://github.com/wx-chevalier/Business-Series)》、《[智能制造](https://github.com/wx-chevalier/Business-Series)》
+
+此外，你还可前往 [xCompass](https://wx-chevalier.github.io/home/#/search) 交互式地检索、查找需要的文章/链接/书籍/课程；或者在 [MATRIX 文章与代码索引矩阵](https://github.com/wx-chevalier/Developer-Zero-To-Mastery)中查看文章与项目源代码等更详细的目录导航信息。最后，你也可以关注微信公众号：『**某熊的技术之路**』以获取最新资讯。
+
+# 编程之道，从代码到软件系统
+
+十年前，当笔者写下第一行 Hello World 时，仿佛已经抓住了整个世界；十年后，我还是在门口徘徊。本节主要以感性地方式去讨论笔者思索的，所谓编程到底难在哪，这个 “Little Problem”。
+
+## 语言、范式与模式
+
+> Programmers who program “in” a language limit their thoughts to constructs that the language directly supports. If the language tools are primitive, the programmer’s thoughts will also be primitive.
+>
+> Programmers who program “into” a language first decide what thoughts they want to express, and then they determine how to express those thoughts using the tools provided by their specific language.
+>
+> -- Steve McConnell’s Code Complete
+
+在笔者过去的工作中，曾经多次被语言“绑架”而导致在技术选型上的巨大失败，最终衍化为了产品、商业竞争力上的乏力。
+
+多范式编程（Multi-Paradigm Programming）和最小表达力原则（Least Expressiveness Principle）
+
+## 架构与复杂性控制
+
+## 性能与高可用
+
+首先是算法。
+
+## 研发效能
 
 # MATRIX | 文章与代码源矩阵
 
@@ -29,7 +66,7 @@ NGTE 配套跨领域文章书籍的 Gitbook 阅读版。您可以通过以下任
 
 - 知识检索、资料归档、实践清单
 
-| [Developer-Zero-To-Mastery](https://github.com/wx-chevalier/Developer-Zero-To-Mastery) | [Awesome-Lists](https://github.com/wx-chevalier/Awesome-Lists) | [Awesome-CheatSheets](https://github.com/wx-chevalier/Awesome-CheatSheets) | [Awesome-CS-Books-Warehouse](https://github.com/wx-chevalier/Awesome-CS-Books-Warehouse) | [Awesome-Interviews](https://github.com/wx-chevalier/Developer-Zero-To-Mastery) |
+| [Developer-Zero-To-Mastery](https://github.com/wx-chevalier/Developer-Zero-To-Mastery) | [Awesome-Lists](https://github.com/wx-chevalier/Awesome-Lists) | [Awesome-CheatSheets](https://github.com/wx-chevalier/Awesome-CheatSheets) | [Awesome-CS-Books](https://github.com/wx-chevalier/Awesome-CS-Books) | [Awesome-Interviews](https://github.com/wx-chevalier/Developer-Zero-To-Mastery) |
 | -------------------------------------------------------------------------------------- | -------------------------------------------------------------- | -------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
 
 
@@ -92,3 +129,14 @@ NGTE 配套跨领域文章书籍的 Gitbook 阅读版。您可以通过以下任
 | [产品设计篇](https://github.com/wx-chevalier/Product-Series/blob/master/产品设计) | [交互体验篇](https://github.com/wx-chevalier/Product-Series/blob/master/交互体验) | [项目管理篇](https://github.com/wx-chevalier/Product-Series/blob/master/项目管理) | [文档处理篇](https://github.com/wx-chevalier/Product-Series/blob/master/文档处理) | [行业迷思篇](https://github.com/wx-chevalier/Product-Series/blob/master/行业迷思) | [智能制造篇](https://github.com/wx-chevalier/Product-Series/blob/master/智能制造) | [电子商务篇](https://github.com/wx-chevalier/Product-Series/blob/master/电子商务) |
 | --------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
 
+# About
+
+## Copyright | 版权
+
+![](https://parg.co/bDY) ![](https://parg.co/bDm)
+
+![](https://i.postimg.cc/TYs7KDk4/image.png)
+
+笔者所有文章遵循[知识共享 署名 - 非商业性使用 - 禁止演绎 4.0 国际许可协议](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh)，欢迎转载，尊重版权。如果觉得本系列对你有所帮助，欢迎给我家布丁买点狗粮(支付宝扫码)~
+
+![](https://github.com/wx-chevalier/OSS/blob/master/2017/8/1/Buding.jpg?raw=true)
